@@ -1,0 +1,8 @@
+product/priv-app/PrebuiltBugle/PrebuiltBugle.apk.xz
+product/priv-app/GoogleCamera/GoogleCamera.apk.xz
+product/priv-app/DevicePersonalizationPrebuiltPixel2021-droidfood_aiai_20241119.00_RC00/DevicePersonalizationPrebuiltPixel2021-droidfood_aiai_20241119.00_RC00.apk.xz
+product/priv-app/PrebuiltGmsCore/PrebuiltGmsCoreVic.apk.xz
+product/app/PrebuiltGmail/PrebuiltGmail.apk.xz
+product/app/Maps/Maps.apk.xz
+product/app/YouTube/YouTube.apk.xz
+product/app/Photos/Photos.apk.xz

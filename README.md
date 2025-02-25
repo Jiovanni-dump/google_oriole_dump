@@ -1,0 +1,14 @@
+# oriole_beta-user Baklava BP22.250124.009 13034193 release-keys
+- manufacturer: google
+- platform: gs101
+- codename: oriole
+- flavor: oriole_beta-user
+- release: 15
+- id: BP22.250124.009
+- incremental: 13034193
+- tags: release-keys
+- fingerprint: google/oriole_beta/oriole:Baklava/BP22.250124.009/13034193:user/release-keys
+- is_ab: true
+- brand: google
+- branch: oriole_beta-user-Baklava-BP22.250124.009-13034193-release-keys
+- repo: google_oriole_dump
