@@ -1,0 +1,14 @@
+# oriole_beta-user 16 BP22.250221.015 13278879 release-keys
+- manufacturer: google
+- platform: gs101
+- codename: oriole
+- flavor: oriole_beta-user
+- release: 16
+- id: BP22.250221.015
+- incremental: 13278879
+- tags: release-keys
+- fingerprint: google/oriole_beta/oriole:16/BP22.250221.015/13278879:user/release-keys
+- is_ab: true
+- brand: google
+- branch: oriole_beta-user-16-BP22.250221.015-13278879-release-keys
+- repo: google_oriole_dump
